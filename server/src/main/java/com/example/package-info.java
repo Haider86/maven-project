@@ -1,4 +1,4 @@
 /**
-* this is a pachage name
+* @param this is a pachage name
 */
 package com.example;
